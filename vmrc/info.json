@@ -1,0 +1,8 @@
+{
+  "vmrc": {
+    "acl": { "read": [ "all" ], "write": [ "vmrc" ] },
+    "description": "A data repository focused on research of the vaginal microbiome.", 
+    "title": "VMRC - Vaginal Microbiome Research Consortium",
+    "url": "http://vmrc4health.org"
+  }
+}
